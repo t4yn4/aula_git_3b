@@ -1,1 +1,2 @@
 Versão 1:Adicionando ao arquivo uma linha de conteúdo.
+Versão 2:Adicionando ao arquivo uma segunda linha de conteúdo. Para testar o versionamento.
